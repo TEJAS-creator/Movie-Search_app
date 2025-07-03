@@ -57,5 +57,3 @@ Throughout this project, the following React concepts were explored and implemen
 
 ---
 
-## 📂 Folder Structure
-
